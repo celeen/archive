@@ -1,4 +1,5 @@
 ---
+layout: post
 title: User Experience and Design
 image: /images/city.jpg 
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dealing with Conflict
 image: /images/conflict.jpg
 ---

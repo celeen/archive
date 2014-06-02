@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Object-Oriented or Functional
 image: /images/oovfp.jpg
 ---

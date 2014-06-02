@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Objects and Classes
 image: /images/classes.jpg
 ---

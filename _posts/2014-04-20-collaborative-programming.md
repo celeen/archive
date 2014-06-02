@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Collaborative Programming
 image: /images/collaboration.jpg
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 image: /images/sql_injection.jpg
 title: SQL Injection
 imgpos: 50% 50%

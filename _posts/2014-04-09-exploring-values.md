@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Exploring Values
 image: /images/values.jpg
 ---

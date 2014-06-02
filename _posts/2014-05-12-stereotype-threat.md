@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Stereotype Threat
 image: /images/stereotype_threat.jpg
 ---

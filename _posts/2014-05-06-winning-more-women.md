@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Winning More Women
 image: /images/women.jpg
 imgpos: 50% 38%

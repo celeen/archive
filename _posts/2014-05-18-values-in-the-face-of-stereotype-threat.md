@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Values in the Face of Stereotype Threat
 image: /images/vastt.jpg
 ---

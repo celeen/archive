@@ -1,4 +1,5 @@
 ---
+layout: post
 title: CSS Selectors
 image: /images/lights.JPG
 ---

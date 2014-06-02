@@ -1,0 +1,53 @@
+section {
+	position:relative;
+  	top:80px;
+}
+
+p {
+	display: inline-block;
+	font-family: 'Roboto Condensed', sans-serif;
+	width: 47%;
+	margin:auto;
+	text-align: center;
+}
+
+ .challenge2, .challenge1 {
+	color: #FFFFFF;
+	text-shadow: 2px 2px #000000;
+	display: inline-block;
+	width: 100%;
+	height: 150px;
+	border: 2px solid black;
+	vertical-align: middle;
+	background-size: 100%;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+
+.wireframing {
+	color: #000000;
+	text-outline: 1px 1px #000000;
+	text-shadow: 2px 2px #FFFFFF, 2px 2px #FFFFFF;
+	background-image: url(../images/wireframing.jpg);
+	display: inline-block;
+	width: 100%;
+	height: 150px;
+	border: 2px solid black;
+	vertical-align: middle;
+	background-size: 100%;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+
+.challenge2 {
+	background-image: url(../images/up.jpg);
+}
+	
+.challenge1 {
+	background-image: url(../images/droplet.JPG);
+}
+
+.filler {
+	height: 50px;
+	width:auto;
+}

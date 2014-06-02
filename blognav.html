@@ -1,0 +1,39 @@
+---
+layout: blognav
+title: Blog Posts
+---
+
+	<content>
+	<section>
+
+		<div class = "filltop"></div>
+
+	{% for post in site.posts limit: 20 %}
+
+	<a href = "{{post.url}}">
+		<div class = "post" id ="box" style = "background-image: url('{{post.image}}');
+	background-position: {{post.imgpos}}">
+		<div id = "underlay">
+			<div class = "filler">
+		</div>
+		<span id = "text">
+		<p class="left">{{post.title}}</p><p class = "right">{{post.date | date: "%x" }}</p>
+		</span>
+		</div>
+		<div id = "overlay">
+		<div class = "filler">
+		</div>
+		<span id = "text">
+		<p class="left">{{post.title}}</p><p class = "right">{{post.date | date: "%x" }}</p>
+		</span>
+		</div>
+		</div>
+	</a>
+
+	{% endfor %}
+
+	
+</section>
+</content>
+
+

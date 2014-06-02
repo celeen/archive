@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<article>
+  {{ post.date | date: "%x" }}
+  {{ content }}
+  {% include disqusfront.html %}
+</article>
+  {% include disqusend.html %}
+    

@@ -1,0 +1,90 @@
+/*div, nav, p, h3 {
+	border: 3px red solid;
+}*/
+
+
+/*structure*/
+header {
+	text-align:center;
+	position: fixed;
+	width:100%;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 10px;
+	height:80px;
+	background-color: rgb(255,255,255);
+	background-color: rgba(255,255,255, 0.7);
+	z-index:10;
+	border-bottom: 2px solid black;
+	-moz-box-shadow:    0px 0px 5px 2px #000000;
+  	-webkit-box-shadow: 0px 0px 5px 2px #000000;
+  	box-shadow:         0px 0px 5px 2px #000000;
+}
+
+header nav {
+	display: inline-block;
+	width: 45%;
+	vertical-align: middle;
+	font-size: 4em;
+}
+
+header li {
+	display: inline-block;
+	width: 15%;
+}
+
+
+.filler {
+	height: 40%;
+	width: auto;
+}
+
+.about {
+	height: 98%;
+
+}
+
+article {
+	height: 100%;
+	margin: auto;
+}
+
+html, body {
+	height: 100%;
+}
+
+
+
+
+/*style*/
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+div {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 10px;
+	text-align:center;
+	position: relative;
+}
+
+
+.title {
+	font-size: 7em;
+}
+
+.about {
+	border: 2px solid black;
+	font-size: 2em;
+	color: #FFFFFF;
+	text-shadow: 2px 2px #000000;
+	display: inline-block;
+	width: 100%;
+	background-size: 100%;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-image: url(../images/greenpath.JPG);
+}
+
+

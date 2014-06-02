@@ -1,0 +1,86 @@
+section {
+	position:relative;
+	width: 100%;
+
+
+}
+
+p {
+	display: inline-block;
+	font-family: 'Roboto Condensed', sans-serif;
+	width: 47%;
+	margin:auto;
+	text-align: center;
+	color: #FFFFFF;
+	text-shadow: 2px 2px #000000;
+	z-index:10;
+
+
+}
+
+
+
+.post {
+	display: inline-block;
+	width: 100%;
+	height: 150px;
+	border: 2px solid black;
+	vertical-align: middle;
+	background-size: 100%;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	position:relative;
+
+}
+
+.filltop {
+	height: 80px;
+}
+
+
+.challenges {
+	background-image: url(../images/clock.jpg);
+}
+
+.filler {
+	height: 50px;
+	width:auto;
+}
+
+.center {width:100%;}
+
+#overlay {
+	height:100%;
+	width: 100%;
+	background: rgba(0,0,0,.6);
+	text-align:center;
+    opacity:0;
+    position: absolute;
+    top:0px;
+    left:0px;
+
+}
+
+#underlay {
+  height: 100%;
+  width: 100%;
+  text-align:center;
+
+}
+
+#box:hover #overlay {
+    opacity:1;
+}
+
+#text {  
+	margin: auto;
+	width:100%;
+    color:rgba(255,255,255,.85);
+    font-family: 'Roboto Condensed', sans-serif;
+	width: 47%;
+	margin:auto;
+	text-align: center;
+	color: #FFFFFF;
+	text-shadow: 2px 2px #000000;
+}
+

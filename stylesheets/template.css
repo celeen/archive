@@ -75,10 +75,17 @@ h4 {
   font-size: 2em;
 }
 
-p, ol {
+p {
   font-family:"Raleway", sans-serif;
   font-size: 1.6em;
   padding: 10px;
+}
+
+ol {
+  font-family:"Raleway", sans-serif;
+  font-size: 1em;
+  padding: 10px;
+  list-style-type: decimal
 }
 
 .sources {
@@ -104,7 +111,7 @@ p img {
 
 .inline { 
 	font-family: "Courier New";
-	font-size: .8em
+	font-size: .8em;
 	background-color: #EFF0F2;
 	border: 1px solid #ADB6BF;
 

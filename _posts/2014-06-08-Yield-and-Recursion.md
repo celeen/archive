@@ -19,7 +19,7 @@ The only trick with recursion in computer programming is that, unlike with fract
 
 Here's a simple example of recursion:
 
-```ruby
+```
 def recursive_method(x)
   return "IT'S OVER!" if x == 0
   puts "...#{x}!"
@@ -27,7 +27,7 @@ def recursive_method(x)
 end
 ```
 When called, this method will output:
-```ruby
+```
 recursive_method(3)
 => "...3!"
    "...2!"

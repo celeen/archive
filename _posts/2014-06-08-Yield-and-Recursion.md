@@ -20,48 +20,56 @@ The only trick with recursion in computer programming is that, unlike with fract
 
 Here's a simple example of recursion:
 
-```
+{% highlight ruby %}
 def recursive_method(x)
   return "IT'S OVER!" if x == 0
   puts "...#{x}!"
   recursive_method(x-1)
 end
-```
+{% endhighlight %}
 When called, this method will output:
-```
+{% highlight ruby %}
 recursive_method(3)
-=> "...3!"
-   "...2!"
-   "...1!"
-   "IT'S OVER!"
-```
+{% endhighlight %}
+{% highlight irb %}
+...3!
+...2!
+...1!
+=> "IT'S OVER!"
+{% endhighlight %}
 
 Yield is a different story, kind of the opposite. Yield exits the method, runs whatever code is in the provided block, and then re-enters the method. This gives programs a TON of flexibility.
 
 Here's a simple (and kind of classic) example of yield:
-```ruby
+{% highlight ruby %}
 def yield_method
-	puts "Here we are within the method!"
-	yield
-	puts "Safe and warm again, back in the method."
+  puts "Here we are within the method!"
+  yield
+  puts "Safe and warm again, back in the method."
 end
+{% endhighlight %}
 
+{% highlight ruby %}
 yield_method {puts "Where is this? It looks like a block..."}
-=> "Here we are within the method!"
-   "Where is this? It looks like a block..."
-   "Safe and warm again, back in the method."
-```
+{% endhighlight %}
+   
+{% highlight irb %}
+"Here we are within the method!"
+"Where is this? It looks like a block..."
+"Safe and warm again, back in the method."
+=> nil
+{% endhighlight %}
 
 I had initially wanted to combine them as an example. in my head, it looks like this:
 
-```ruby
+{% highlight ruby %}
 def method(x)
 	return "Oh, THAT'S where this rabbit hole leads..." if x = 1
 	yield(x-1)
 end
 
 method(x) { method(x) }
-```
+{% endhighlight %}
 
 But of course, this code doesn't run, partially because our block has no idea what x is- that's an example of variable scope, another topic we went over this week, but which I won't cover here.
 

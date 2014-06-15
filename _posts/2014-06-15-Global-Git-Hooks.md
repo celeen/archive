@@ -2,6 +2,7 @@
 layout: post
 title: Stupid Fun
 image: /images/stupidfun.jpg
+imgpos: 50% 80%
 ---
 
 #Learning via Stupid Fun

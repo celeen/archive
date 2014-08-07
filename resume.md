@@ -83,6 +83,6 @@ Engaged in various admin and customer service roles, most notably for a period o
 
 ---
 
-View in [plain text](resume/resume.txt) or [pdf](resume/resume.pdf)
+View in [plain text](../resume.txt) or [pdf](../resume.pdf)
 {: .center}
 

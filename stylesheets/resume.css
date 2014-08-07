@@ -1,0 +1,68 @@
+@media (max-width: 600px) {
+		body {
+			width: 80%;
+			margin: 0 auto;
+		}
+	}
+
+body {
+	font-family: 'Lato', sans-serif;
+	background-color: #FFEEFF;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+h1, h2, h4 {
+	/*line-height: .7em;*/
+	margin: 0;
+	font-family: 'Bitter', serif;
+	font-weight: 400;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+h3 {
+	margin: 1em 0 0 0;
+}
+
+h4 {
+	font-style: italic;
+	font-size: .9em;
+}
+
+.heading {
+	font-size: .85em;
+}
+
+p, li {
+	font-size: .85em;
+}
+
+li {
+	list-style-type: none;
+}
+
+#celeen-rusk {
+	/*line-height: .0em;*/
+	margin: 1em 0 .1em 0;
+}
+
+ul {
+	margin: 0;
+	padding: 0 .2em;
+}
+
+li {
+	padding: 0;
+}
+
+.projects li {
+	display: inline-block;
+	padding: 0;
+}
+
+hr {
+	margin: 1em 0;
+}

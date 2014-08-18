@@ -71,3 +71,14 @@ hr {
 	text-align: center;
 	font-family: 'Bitter', serif;
 }
+
+
+a {
+	color: green;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #CC00CC;
+}
+

@@ -1,0 +1,36 @@
+body {
+	max-width: 800px;
+}
+
+h1, h2, h3, h4, h5 {
+	text-align: center;
+	padding: 10px 0 0 0;
+}
+
+
+h5 {
+	
+	margin: 0;
+	padding: 0 0 5px 0;
+}
+
+.column {
+	width: 42%;
+	float: left;
+	padding: 0 10px 15px 10px;
+}
+
+.two {
+	float: right;
+}
+
+p {
+	margin: 0;
+	padding: 10px 0 0 0;
+}
+
+.footer {
+	clear: both;
+	margin: 0;
+	padding: 0 0 0 0;
+}

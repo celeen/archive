@@ -11,30 +11,36 @@ li:hover {
   background-color: #ff6464; }
 
 #logo {
-  width: 50%;
+  width: 55%;
   height: auto;
   margin: 25px auto 0 auto; }
 
 #logo img {
   width: 100%; }
 
-nav li {
-  width: 15.7%;
-  padding: 5px 1px 5px 2px;
-  float: left;
-  border-top: 2px solid #ff6464;
-  border-bottom: 2px solid #ff6464;
-  border-left: 2px solid #ff6464; }
-
-nav a:last-of-type li {
-  border-right: 2px solid #ff6464; }
-
 nav {
-  width: 50%; }
+  width: 55%; }
 
 ul {
   display: block;
   overflow: hidden; }
+
+nav li {
+  width: 15.65%;
+  padding: 5px 1px 5px 2px;
+  float: left;
+  border-top: 2px solid #ff6464;
+  border-bottom: 2px solid #ff6464;
+  border-left: 2px solid #ff6464;
+  font-size: .9em;
+  font-family: Bitter;
+  font-weight: 400; }
+
+nav a:last-of-type li {
+  border-right: 2px solid #ff6464; }
+
+nav h2 {
+  margin: 10px auto; }
 
 .code {
   font-family: "Source Code Pro";
@@ -45,11 +51,103 @@ ul {
   margin: 0 auto 25px auto;
   text-align: center; }
 
-nav h2 {
-  margin: 10px auto; }
-
 .hidden {
   border: 1px solid red;
   display: none; }
+
+h3 {
+  font-family: Bitter;
+  font-weight: bold;
+  font-size: 1.5em;
+  margin: 50px 0 20px 0; }
+
+.person {
+  height: 150px;
+  width: 55%;
+  margin: 10px 0;
+  display: block;
+  margin: 0 auto; }
+
+.avatar {
+  width: 24%;
+  display: inline-block; }
+
+.avatar:nth-of-type(2n) {
+  float: right; }
+
+.avatar:nth-of-type(2n-1) {
+  float: left; }
+
+.avatar img {
+  width: 100%;
+  border-radius: 100%;
+  border: solid 5px #ff6464; }
+
+.bio {
+  font-family: Bitter;
+  font-weight: 400;
+  width: 70%;
+  height: 110px;
+  text-align: center;
+  position: relative; }
+
+.bio:nth-of-type(2n) {
+  float: right; }
+
+.bio:nth-of-type(2n-1) {
+  float: left; }
+
+div.bio p {
+  width: 100%;
+  position: absolute;
+  top: 55%;
+  margin: 0;
+  transform: translate(0, -40%);
+  line-height: 120%; }
+
+@media screen and (max-width: 1200px) {
+  #logo, nav {
+    width: 60%; }
+
+  nav li {
+    width: 15.5%; } }
+@media screen and (max-width: 973px) {
+  #logo, nav {
+    width: 65%; }
+
+  nav li {
+    width: 15.3%;
+    font-size: .85em; } }
+@media screen and (max-width: 750px) {
+  #logo, nav {
+    width: 80%; }
+
+  nav li {
+    width: 32%;
+    font-size: .8em; }
+
+  nav a:nth-of-type(-n+3) li {
+    border-bottom: none; }
+
+  nav a:last-of-type li {
+    border-right: 2px solid #ff6464; }
+
+  nav a:nth-of-type(3) li {
+    border-right: 2px solid #ff6464; } }
+@media screen and (max-width: 662px) {
+  nav li {
+    width: 31.9%; } }
+@media screen and (max-width: 616px) {
+  nav li {
+    width: 31.6%; } }
+@media screen and (max-width: 509px) {
+  nav li {
+    width: 31.3%; } }
+@media screen and (max-width: 434px) {
+  nav li {
+    width: 31%; } }
+@media screen and (max-width: 390) {
+  nav li {
+    width: 30%; } }
 
 /*# sourceMappingURL=style.css.map */

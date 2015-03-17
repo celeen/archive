@@ -28,12 +28,13 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 
 ##Projects
 
-[Python Data Structures](https://github.com/celeen/PythonDataStructures) is a exploratory, hands on TDD based course I'm building and leading for PyLadies. It's a python adaptation of [Dave Astels' DBC Deep Dives](https://github.com/dastels/dbc-deep-dives). Both projects aim to provide a hands on way for anyone to explore the inner workings of data structures by implementing them in an OO/TDD environment.
+[Python Data Structures](https://github.com/celeen/PythonDataStructures) is a exploratory, hands on TDD based course I'm building and leading for PyLadies. It's a python adaptation of [Dave Astels' DBC Deep Dives](https://github.com/dastels/dbc-deep-dives). Both projects aim to provide a hands on way for anyone to explore the inner workings of data structures by implementing them in an OO/TDD environment.  
+--[Sourcecode](https://github.com/celeen/PythonDataStructures)-
 
-[Emotional Securities]() is a web app that explores the realtionship between public opinion of a company, and its stock price. The initial site was constructed in 8 days, as a final project at Dev Bootcamp.
+[Emotional Securities]() is a web app that explores the realtionship between public opinion of a company, and its stock price. The initial site was constructed in 8 days, as a final project at Dev Bootcamp.  
 -[Sourcecode](https://github.com/celeen/EmotionalSecurities)-
 
-[OneTaste](http://onetasteatatime.herokuapp.com) is a social networking website for foodies. Users can share their experiences with different restaurants through reviews, connect with each other, share their food photos, and vote on each others' reviews.
+[OneTaste](http://onetasteatatime.herokuapp.com) is a social networking website for foodies. Users can share their experiences with different restaurants through reviews, connect with each other, share their food photos, and vote on each others' reviews.  
 -[Sourcecode](https://github.com/tjhernandez34/OneTaste)-
 
 [Survey Unicorn](surveyunicorn.herokuapp.com) was a 3 day project from Dev Bootcamp, intended to flex our muscles building CRUD apps in Sinatra and appreciating rainbows.

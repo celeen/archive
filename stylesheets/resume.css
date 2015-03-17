@@ -95,6 +95,10 @@ hr {
 	font-family: 'Bitter', serif;
 }
 
+.hidden {
+	display: none;
+}
+
 
 a {
 	color: green;

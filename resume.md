@@ -54,6 +54,7 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 * Mentor manual testers in use of git and cucumber; Their ability to add cucumber scenarios to our git repos increases the efficiency of the department as a whole
 
 * Switched team from mercurial to git; established team's git workflow guidelines
+{: .experience}
 
 ###Web Developer in Training: June 2014 - August 2014
 
@@ -62,6 +63,7 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 * Completed a 9-week intensive program on web development that focuses on Ruby on Rails. In a short period of time, I learned a ton of technical skills (as seen above), but ultimately, I learned how to learn quickly.
 
 * As an added bonus, I learned how to hone soft skills as they pertain to the technical world, with workshops ranging from how to respect diversity in the workplace, to managing your own ego, to strategies for working with different DISC types.
+{: .experience}
 
 ###Specialist: August 2011 - May 2014
 
@@ -70,6 +72,7 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 * Engaged customers in the discovery of some really cool tech that provides solutions to problems they sometimes didn't know they had. 
 
 * Worked in a high pace environment with a close knit team, mentoring, supporting, improving morale, and driving results for the store. We all worked hard to provide the best solutions to anyone who walked in the door.
+{: .experience}
 
 ###Science Support Staff: September 2009 - June 2011
 
@@ -81,15 +84,16 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 Sharpened attention to detail, particularly in repetitive tasks (like loading refrigerated shipping containers with barrels of human waste with a forklift for 12 hours a day without puncturing the barrels, or the containers).
 
 * Between work contracts in the Antarctic, I travelled and did volunteer work around the world, learning firsthand through experience. Most notably, I learned passable spanish in three weeks while traveling around Colombia and Ecuador.
+{: .experience}
 
 ###Temporary Office Worker: June 2008 - September 2009
 
-####Various Employers: Chicago, IL
-	
+####Various Employers: Chicago, IL	
 
 * Engaged in various admin and customer service roles, most notably for a period of 6 months as a telephone customer service representative at CCH, where I was promoted to being a point of contact for the company's west coast sales reps.
 
 ^
+{: .experience}
 ---
 
 ##Education

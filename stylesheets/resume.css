@@ -36,11 +36,20 @@ h4 {
 	font-size: .85em;
 }
 
+ul {
+	margin: 0;
+	padding: 0 .2em;
+}
+
 p, li {
-	font-size: .95em;
+	font-size: .85em;
 }
 
 li {
+	list-style-type: none;
+}
+
+.experience li {
 	width: 95%;
 	margin: 0 auto;
 	font-size: 1em;
@@ -51,15 +60,26 @@ li {
 	margin: 1em 0 .1em 0;
 }
 
-ul {
-	margin: 0;
-	padding: 0 .2em;
+.experience {
 	list-style: square url("/images/bullet.png");
 }
 
 li {
 	padding: 0;
 }
+
+/*.contact {
+	list-style: none;	
+}
+
+.contact li {
+	list-style-type: none;
+	margin: 0;
+}*/
+
+/*.contact p, .contact li {
+	font-size: .85em;
+}*/
 
 .projects li {
 	display: inline-block;

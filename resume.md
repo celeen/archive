@@ -47,13 +47,11 @@ Emotional Securities is a web app that explores the realtionship between public 
 ^
 ####Sprout Social: Chicago, IL
 
-Write, maintain, and extend an army of disembodied robots that test Sprout's website. I work on a small, tightly knit and effocient team.
-
-Mentor manual testers in use of git and cucumber; Their ability to add cucumber scenarios to our git repos increases the efficiency of the department as a whole
+Write, maintain, and extend an army of disembodied robots that test Sprout's website as part of a tightly knit and efficient team.
 
 Mentor new hires to the ASET role generally, but especially in Java, and in getting familiar with our software and workflow
 
-Write integration test suite for our backend
+Mentor manual testers in use of git and cucumber; Their ability to add cucumber scenarios to our git repos increases the efficiency of the department as a whole
 
 Switched team from mercurial to git; established team's git workflow guidelines
 

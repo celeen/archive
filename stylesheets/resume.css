@@ -37,11 +37,13 @@ h4 {
 }
 
 p, li {
-	font-size: .85em;
+	font-size: .95em;
 }
 
 li {
-	list-style-type: none;
+	width: 95%;
+	margin: 0 auto;
+	font-size: 1em;
 }
 
 #celeen-rusk {
@@ -52,6 +54,7 @@ li {
 ul {
 	margin: 0;
 	padding: 0 .2em;
+	list-style: square url("/images/bullet.png");
 }
 
 li {

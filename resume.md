@@ -28,9 +28,9 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 
 ##Projects
 
-[Python Data Structures](https://github.com/celeen/PythonDataStructures) is a exploratory, hands on TDD based course I'm building and leading for PyLadies. It's an adaptation of [Dave Astels' DBC Deep Dives](https://github.com/dastels/dbc-deep-dives) for python; both projects aim to provide a hands on way for anyone to explore the inner workings of data structures by implementing them in an OO/TDD environment.
+[Python Data Structures](https://github.com/celeen/PythonDataStructures) is a exploratory, hands on TDD based course I'm building and leading for PyLadies. It's a python adaptation of [Dave Astels' DBC Deep Dives](https://github.com/dastels/dbc-deep-dives). Both projects aim to provide a hands on way for anyone to explore the inner workings of data structures by implementing them in an OO/TDD environment.
 
-Emotional Securities is a web app that explores the realtionship between public opinion of a company, and its stock price. The initial site was constructed in 8 days, as a final project at Dev Bootcamp.
+[Emotional Securities]() is a web app that explores the realtionship between public opinion of a company, and its stock price. The initial site was constructed in 8 days, as a final project at Dev Bootcamp.
 -[Sourcecode](https://github.com/celeen/EmotionalSecurities)-
 
 [OneTaste](http://onetasteatatime.herokuapp.com) is a social networking website for foodies. Users can share their experiences with different restaurants through reviews, connect with each other, share their food photos, and vote on each others' reviews.
@@ -41,51 +41,55 @@ Emotional Securities is a web app that explores the realtionship between public 
 ---
 
 ##Experience
-^
+
 
 ###Associate Software Engineer in Test: September 2014 - Present
-^
+
 ####Sprout Social: Chicago, IL
 
-Write, maintain, and extend an army of disembodied robots that test Sprout's website as part of a tightly knit and efficient team.
+* Write, maintain, and extend an army of disembodied robots that test Sprout's website as part of a tightly knit and efficient team.
 
-Mentor new hires to the ASET role generally, but especially in Java, and in getting familiar with our software and workflow
+* Mentor new hires to the ASET role generally, but especially in Java, and in getting familiar with our software and workflow
 
-Mentor manual testers in use of git and cucumber; Their ability to add cucumber scenarios to our git repos increases the efficiency of the department as a whole
+* Mentor manual testers in use of git and cucumber; Their ability to add cucumber scenarios to our git repos increases the efficiency of the department as a whole
 
-Switched team from mercurial to git; established team's git workflow guidelines
+* Switched team from mercurial to git; established team's git workflow guidelines
 
 ###Web Developer in Training: June 2014 - August 2014
-^
+
 ####Dev Bootcamp: Chicago, IL
 
-Completed a 9-week intensive program on web development that focuses on Ruby on Rails. In a short period of time, I learned a ton of technical skills (as seen above), but ultimately, I learned how to learn quickly.
+* Completed a 9-week intensive program on web development that focuses on Ruby on Rails. In a short period of time, I learned a ton of technical skills (as seen above), but ultimately, I learned how to learn quickly.
 
-As an added bonus, I learned how to hone soft skills as they pertain to the technical world, with workshops ranging from how to respect diversity in the workplace, to managing your own ego, to strategies for working with different DISC types.
+* As an added bonus, I learned how to hone soft skills as they pertain to the technical world, with workshops ranging from how to respect diversity in the workplace, to managing your own ego, to strategies for working with different DISC types.
 
 ###Specialist: August 2011 - May 2014
-^
+
 ####Apple Retail: Chicago, IL
 
-Engaged customers in the discovery of some really cool tech that provides solutions to problems they sometimes didn't know they had. I worked in a high pace environment, with a close knit team, mentoring, supporting, improving morale, and driving results for the store. We all worked hard to provide the best solutions to all the people who walked in the door.
+* Engaged customers in the discovery of some really cool tech that provides solutions to problems they sometimes didn't know they had. 
+
+* Worked in a high pace environment with a close knit team, mentoring, supporting, improving morale, and driving results for the store. We all worked hard to provide the best solutions to anyone who walked in the door.
 
 ###Science Support Staff: September 2009 - June 2011
 
 ####NANA Services and Raytheon Polar Service: McMurdo Station, Antarctica 
 
-Furthered scientific research in the antarctic as as a dishwasher, and a recycling technician.
+* Furthered scientific research in the antarctic as as a dishwasher, and a recycling technician.
 
-Honed my ability to work in closely knit teams and in high pressure and harsh environments;
+* Honed my ability to work in closely knit teams and in high pressure and harsh environments;
 Sharpened attention to detail, particularly in repetitive tasks (like loading refrigerated shipping containers with barrels of human waste with a forklift for 12 hours a day without puncturing the barrels, or the containers).
 
-Between work contracts in the Antarctic, I travelled and did volunteer work around the world, learning firsthand through experience. Most notably, I learned passable spanish in three weeks while traveling around Colombia and Ecuador.
+* Between work contracts in the Antarctic, I travelled and did volunteer work around the world, learning firsthand through experience. Most notably, I learned passable spanish in three weeks while traveling around Colombia and Ecuador.
 
 ###Temporary Office Worker: June 2008 - September 2009
 
 ####Various Employers: Chicago, IL
+	
 
-Engaged in various admin and customer service roles, most notably for a period of 6 months as a telephone customer service representative at CCH, where I was promoted to being a point of contact for the company's west coast sales reps.
+* Engaged in various admin and customer service roles, most notably for a period of 6 months as a telephone customer service representative at CCH, where I was promoted to being a point of contact for the company's west coast sales reps.
 
+^
 ---
 
 ##Education
@@ -94,20 +98,28 @@ Engaged in various admin and customer service roles, most notably for a period o
 
 ####Millikin University: Decatur, IL
 
+###Web Developer in Training: June 2014 - August 2014
+
+####Dev Bootcamp: Chicago, IL
+
 ---
 
 ##Community Involvement
 
 ###PyLadies Chicago: January 2015 - Present
-####Co-Organizer:
+
+####Co-Organizer
 
 ###Pilsen Community Market: August 2014 - Present
+
 ####Board Member/Overseer of Web Stuff
 
 ###Girl Develop It Chicago: October 2014 - Present
+
 ####Volunteer TA
 
 ###Railsbridge Chicago: December 2014
+
 ####Volunteer TA
 
 View in [plain text](../resume.txt) or [pdf](../resume.pdf)

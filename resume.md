@@ -87,14 +87,6 @@ Sharpened attention to detail, particularly in repetitive tasks (like loading re
 * Between work contracts in the Antarctic, I travelled and did volunteer work around the world, learning firsthand through experience. Most notably, I learned passable spanish in three weeks while traveling around Colombia and Ecuador.
 {: .experience}
 
-###Temporary Office Worker: June 2008 - September 2009
-
-####Various Employers: Chicago, IL	
-
-* Engaged in various admin and customer service roles, most notably for a period of 6 months as a telephone customer service representative at CCH, where I was promoted to being a point of contact for the company's west coast sales reps.
-
-^
-{: .experience}
 ---
 
 ##Education
@@ -127,6 +119,6 @@ Sharpened attention to detail, particularly in repetitive tasks (like loading re
 
 ####Volunteer TA
 
-View in [plain text](../resume.txt) or [pdf](../resume.pdf)
-{: .center}
+View in [plain text](../resume.txt) or [outdated pdf](../resume.pdf)
+{: .center .hidden}
 

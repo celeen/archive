@@ -16,31 +16,46 @@ layout: resume
 
 ##Summary
 
-I'm a junior web developer with experience in sales and customer service, and
-a believer that great intrinsic reward and growth come from seeking discomfort and challenge.
+I'm a junior web developer with a head for knowing, a love of learning, and experience in a variety of technologies and environments. You'll find me on any given day embracing challenge and exploration, actively appreciating whimsy, and vocally supporting the oxford comma.
 
 ---
 
 ##Skills
 
-Ruby on Rails (or with Sinatra), HTML and CSS (Sass, Frameworks, Libraries), Javascript (Jquery, AJAX), SQL, MongoDB, Agile Process, Object Oriented Design, Git Version Control (and best practices), TDD (Rspec, Capybara, Jasmine, Driver code), Deployment (Heroku, Digital Ocean)
+Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sass, Frameworks, Libraries), Javascript (Jquery, AJAX), SQL, MongoDB, Agile Process, Object Oriented Design, Git Version Control (and best practices), Mercurial, TDD (Rspec, Unittest, Nose, PyTest, Capybara, Jasmine, Driver code), Deployment (Heroku, Digital Ocean), DNS
 
 ---
 
 ##Projects
 
-[Emotional Securities](http://emotionalsecurities.herokuapp.com) is a web app that explores the realtionship between public opinion of a company, and its stock price. The initial site was constructed in 8 days, as a final project at Dev Bootcamp.
+[Python Data Structures](https://github.com/celeen/PythonDataStructures) is a exploratory, hands on TDD based course I'm building and leading for PyLadies. It's an adaptation of [Dave Astels' DBC Deep Dives](https://github.com/dastels/dbc-deep-dives) for python; both projects aim to provide a hands on way for anyone to explore the inner workings of data structures by implementing them in an OO/TDD environment.
+
+Emotional Securities is a web app that explores the realtionship between public opinion of a company, and its stock price. The initial site was constructed in 8 days, as a final project at Dev Bootcamp.
 -[Sourcecode](https://github.com/celeen/EmotionalSecurities)-
 
 [OneTaste](http://onetasteatatime.herokuapp.com) is a social networking website for foodies. Users can share their experiences with different restaurants through reviews, connect with each other, share their food photos, and vote on each others' reviews.
 -[Sourcecode](https://github.com/tjhernandez34/OneTaste)-
 
-[Survey Unicorn](surveyunicorn.herokuapp.com) was a 3 day project from Dev Bootcamp, intended to flex our muscles building CRUD apps in Sinatra.
+[Survey Unicorn](surveyunicorn.herokuapp.com) was a 3 day project from Dev Bootcamp, intended to flex our muscles building CRUD apps in Sinatra and appreciating rainbows.
 
 ---
 
 ##Experience
 ^
+
+###Associate Software Engineer in Test: September 2014 - Present
+^
+####Sprout Social: Chicago, IL
+
+Write, maintain, and extend an army of disembodied robots that test Sprout's website. I work on a small, tightly knit and effocient team.
+
+Mentor manual testers in use of git and cucumber; Their ability to add cucumber scenarios to our git repos increases the efficiency of the department as a whole
+
+Mentor new hires to the ASET role generally, but especially in Java, and in getting familiar with our software and workflow
+
+Write integration test suite for our backend
+
+Switched team from mercurial to git; established team's git workflow guidelines
 
 ###Web Developer in Training: June 2014 - August 2014
 ^
@@ -82,6 +97,20 @@ Engaged in various admin and customer service roles, most notably for a period o
 ####Millikin University: Decatur, IL
 
 ---
+
+##Community Involvement
+
+###PyLadies Chicago: January 2015 - Present
+####Co-Organizer:
+
+###Pilsen Community Market: August 2014 - Present
+####Board Member/Overseer of Web Stuff
+
+###Girl Develop It Chicago: October 2014 - Present
+####Volunteer TA
+
+###Railsbridge Chicago: December 2014
+####Volunteer TA
 
 View in [plain text](../resume.txt) or [pdf](../resume.pdf)
 {: .center}

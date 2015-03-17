@@ -1,4 +1,4 @@
 $(document).ready(function() {
-  console.log("Hello! Welcoe to my resume.");
+  console.log("Hello! Welcome to my resume.");
 
 });

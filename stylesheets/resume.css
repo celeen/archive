@@ -60,9 +60,6 @@ li {
 	margin: 1em 0 .1em 0;
 }
 
-.experience {
-	list-style: square url("/images/bullet.png");
-}
 
 li {
 	padding: 0;
@@ -80,7 +77,6 @@ li {
 /*.contact p, .contact li {
 	font-size: .85em;
 }*/
-
 .projects li {
 	display: inline-block;
 	padding: 0;
@@ -109,3 +105,6 @@ a:hover {
 	color: #CC00CC;
 }
 
+.experience {
+	/*list-style-type: disc inside;*/
+}

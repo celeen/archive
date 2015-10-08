@@ -48,7 +48,7 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 ###Dev BootCamp: Chicago, IL
 
 * Instruct beginning programming students in best practices
-* 
+
 * Give code constructive code reviews that are actionable, specific, and kind
 
 ###Associate Software Engineer: June 2015 - October 2015

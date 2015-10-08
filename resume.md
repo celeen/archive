@@ -43,8 +43,21 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 
 ##Experience
 
+###Phase Zero Guide/Instructor: May 2014 - Present
 
-###Associate Software Engineer in Test: September 2014 - Present
+###Dev BootCamp: Chicago, IL
+
+* Instruct beginning programming students in best practices
+* 
+* Give code constructive code reviews that are actionable, specific, and kind
+
+###Associate Software Engineer: June 2015 - October 2015
+
+####Give Forward: Chicago, IL
+
+* Contribute full stack problem solving and coding skills to a rapidly changing web application built in (J)Ruby on Rails and Angular.
+
+###Associate Software Engineer in Test: September 2014 - May 2015
 
 ####Sprout Social: Chicago, IL
 

@@ -56,18 +56,20 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 
 ####Give Forward: Chicago, IL
 
-* Contribute full stack problem solving and coding skills to a rapidly changing web application built in (J)Ruby on Rails and Angular.
+* Contributed full stack problem solving and coding skills to a rapidly changing web application 
+
+* Worked with (J)Ruby on Rails, Angular, Javascript, Coffeescript, HTML, CSS and Jenkins.
 {: .experience}
 
 ###Associate Software Engineer in Test: September 2014 - May 2015
 
 ####Sprout Social: Chicago, IL
 
-* Write, maintain, and extend an army of disembodied robots that test Sprout's website as part of a tightly knit and efficient team.
+* Wrote, maintained, and extended an army of disembodied robots that test Sprout's website as part of a tightly knit and efficient team.
 
-* Mentor new hires to the ASET role generally, but especially in Java, and in getting familiar with our software and workflow
+* Mentored new hires to the ASET role generally, but especially in Java, and in getting familiar with our software and workflow
 
-* Mentor manual testers in use of git and cucumber; Their ability to add cucumber scenarios to our git repos increases the efficiency of the department as a whole
+* Mentored manual testers in use of git and cucumber; Their ability to add cucumber scenarios to our git repos increases the efficiency of the department as a whole
 
 * Switched team from mercurial to git; established team's git workflow guidelines
 {: .experience}

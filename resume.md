@@ -58,7 +58,7 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 
 * Contributed full stack problem solving and coding skills to a rapidly changing web application 
 
-* Worked with (J)Ruby on Rails, Angular, Javascript, Coffeescript, HTML, CSS and Jenkins.
+* Worked with (J)Ruby on Rails, Angular, Javascript, Coffeescript, HTML, CSS and Jenkins
 {: .experience}
 
 ###Associate Software Engineer in Test: September 2014 - May 2015

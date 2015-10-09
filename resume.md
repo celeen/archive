@@ -45,7 +45,7 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 
 ###Phase Zero Guide/Instructor: May 2014 - Present
 
-###Dev BootCamp: Chicago, IL
+####Dev BootCamp: Chicago, IL
 
 * Instruct beginning programming students in best practices
 

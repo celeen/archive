@@ -50,12 +50,14 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 * Instruct beginning programming students in best practices
 
 * Give code constructive code reviews that are actionable, specific, and kind
+{: .experience}
 
 ###Associate Software Engineer: June 2015 - October 2015
 
 ####Give Forward: Chicago, IL
 
 * Contribute full stack problem solving and coding skills to a rapidly changing web application built in (J)Ruby on Rails and Angular.
+{: .experience}
 
 ###Associate Software Engineer in Test: September 2014 - May 2015
 

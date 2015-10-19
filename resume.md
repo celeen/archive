@@ -3,7 +3,7 @@ layout: resume
 ---
 #Celeen Rusk
 * 512-775-7887
-* [celeenrusk@gmail.com](mailto:celeenrusk@gmail.com)
+* [hello@celeen.info](mailto:hello@celeen.info)
 {: .contact }
 ^
 
@@ -16,19 +16,19 @@ layout: resume
 
 ##Summary
 
-I'm a junior web developer with a head for knowing, a love of learning, and experience in a variety of technologies and environments. You'll find me on any given day embracing challenge and exploration, actively appreciating whimsy, and vocally supporting the oxford comma.
+I'm an adaptable junior software engineer with a head for knowing, a love of learning, and experience in a variety of technologies and environments. You'll find me on any given day embracing challenge and exploration, actively appreciating whimsy, and vocally supporting the oxford comma.
 
 ---
 
 ##Skills
 
-Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sass, Frameworks, Libraries), Javascript (Jquery, AJAX), SQL, MongoDB, Agile Process, Object Oriented Design, Git Version Control (and best practices), Mercurial, TDD (Rspec, Unittest, Nose, PyTest, Capybara, Jasmine, Driver code), Deployment (Heroku, Digital Ocean), DNS
+Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sass, Frameworks, Libraries), Javascript (Jquery, AJAX), Coffeescript, SQL, MongoDB, Agile Process, Object Oriented Design, Git Version Control (and best practices), Mercurial, TDD (Rspec, Unittest, Nose, PyTest, Capybara, Jasmine, Driver code), Web deployment (Heroku, Digital Ocean), DNS
 
 ---
 
 ##Projects
 
-[Python Data Structures](https://github.com/celeen/PythonDataStructures) is a exploratory, hands on TDD based course I'm building and leading for PyLadies. It's a python adaptation of [Dave Astels' DBC Deep Dives](https://github.com/dastels/dbc-deep-dives). Both projects aim to provide a hands on way for anyone to explore the inner workings of data structures by implementing them in an OO/TDD environment.  
+[Python Data Structures](https://github.com/celeen/PythonDataStructures) is an exploratory, hands on TDD based course I'm building and leading for PyLadies. It's a python adaptation of [Dave Astels' DBC Deep Dives](https://github.com/dastels/dbc-deep-dives). Both projects aim to provide a hands on way for anyone to explore the inner workings of data structures by implementing them in an OO/TDD environment.  
 --[Sourcecode](https://github.com/celeen/PythonDataStructures)-
 
 [Emotional Securities]() is a web app that explores the realtionship between public opinion of a company, and its stock price. The initial site was constructed in 8 days, as a final project at Dev Bootcamp.  
@@ -56,7 +56,7 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 
 ####Give Forward: Chicago, IL
 
-* Contributed full stack problem solving and coding skills to a rapidly changing web application 
+* Worked on a small, tight-knit team to build out, maintain, and refine a rapidly growing platform for empowering compassion
 
 * Worked with (J)Ruby on Rails, Angular, Javascript, Coffeescript, HTML, CSS and Jenkins
 {: .experience}
@@ -69,7 +69,7 @@ Java, Selenium/Cucumber, Python, Ruby on Rails (or on Sinatra), HTML and CSS (Sa
 
 * Mentored new hires to the ASET role generally, but especially in Java, and in getting familiar with our software and workflow
 
-* Mentored manual testers in use of git and cucumber; Their ability to add cucumber scenarios to our git repos increases the efficiency of the department as a whole
+* Mentored manual testers in use of git and cucumber; Their ability to add cucumber scenarios to our git repos increased the efficiency of the department as a whole
 
 * Switched team from mercurial to git; established team's git workflow guidelines
 {: .experience}

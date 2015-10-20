@@ -93,10 +93,6 @@ Java, Selenium, Cucumber, Python, Ruby on Rails, HTML and CSS (Sass, Frameworks,
 
 ##Education
 
-###Bachelor's of Music in Music Business- 2008
-
-####Millikin University: Decatur, IL
-
 ###Web Developer in Training: June 2014 - August 2014
 
 ####Dev Bootcamp: Chicago, IL
@@ -105,6 +101,10 @@ Java, Selenium, Cucumber, Python, Ruby on Rails, HTML and CSS (Sass, Frameworks,
 
 * Learned how to hone soft skills as they pertain to the technical world, with workshops ranging from how to respect diversity in the workplace, to managing your own ego, to strategies for working with different DISC types
 {: .experience}
+
+###Bachelor's of Music in Music Business: 2004 - 2008
+
+####Millikin University: Decatur, IL
 
 ---
 

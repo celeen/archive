@@ -28,15 +28,6 @@ Java, Selenium, Cucumber, Python, Ruby on Rails, HTML and CSS (Sass, Frameworks,
 
 ##Experience
 
-###Phase Zero Guide/Instructor: May 2014 - Present
-
-####Dev BootCamp: Chicago, IL
-
-* Instruct beginning programming students in best practices
-
-* Give constructive code reviews that are actionable, specific, and kind
-{: .experience}
-
 ###Associate Software Engineer: June 2015 - October 2015
 
 ####Give Forward: Chicago, IL
@@ -50,7 +41,7 @@ Java, Selenium, Cucumber, Python, Ruby on Rails, HTML and CSS (Sass, Frameworks,
 
 ####Sprout Social: Chicago, IL
 
-* Developed software that tests Sprout's website as part of an efficient team.
+* Developed software that tests Sprout's website as part of an efficient team
 
 * Promoted team success through mentoring new hires to the ASET role
 

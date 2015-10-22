@@ -8,7 +8,7 @@ layout: resume
 ^
 
 * [Github](http://www.github.com/celeen) \|
-* [Blog](http://celeen.gtihub.io) \|
+* [Blog](http://celeen.info) \|
 * [LinkedIn](http://www.linkedin.com/in/celeen)
 {: .projects }
 

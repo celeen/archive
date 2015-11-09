@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winning More Women
-image: /images/women.jpg
+image: ../images/women.jpg
 imgpos: 50% 38%
 ---
 <h2>Winning More Women</h2>

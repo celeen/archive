@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Doing Jekyll
-image: /images/jekyll.jpg
+image: ../images/jekyll.jpg
 imgpos: 50% 38%
 ---
 ##Migrating to Jekyll

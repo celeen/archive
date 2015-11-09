@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stupid Fun
-image: /images/stupidfun.jpg
+image: ../images/stupidfun.jpg
 imgpos: 50% 60%
 ---
 

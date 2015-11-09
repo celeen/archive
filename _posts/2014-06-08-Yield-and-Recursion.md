@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1, Yield and Recursion
-image: /images/recursion.jpg
+image: ../images/recursion.jpg
 imgpos: 50% 80%
 ---
 

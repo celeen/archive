@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSS Selectors
-image: /images/lights.JPG
+image: ../images/lights.JPG
 ---
 
 <h1>CSS Selectors</h1>

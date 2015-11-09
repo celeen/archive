@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Values in the Face of Stereotype Threat
-image: /images/vastt.jpg
+image: ../images/vastt.jpg
 ---
 
 <h3>Reaffirming Values in the Face of Stereotype Threat</h3>

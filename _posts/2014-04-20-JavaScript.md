@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript
-image: /images/javascript.jpg
+image: ../images/javascript.jpg
 imgpos: 50% 38%
 ---
 

@@ -10,7 +10,7 @@ title: Blog Posts
 
 	{% for post in site.posts limit: 20 %}
 
-	<a href = "{{post.url}}">
+	<a href = "./{{post.url}}">
 		<div class = "post" id ="box" style = "background-image: url('{{post.image}}');
 	background-position: {{post.imgpos}}">
 		<div id = "underlay">

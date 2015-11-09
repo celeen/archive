@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stereotype Threat
-image: /images/stereotype_threat.jpg
+image: ../images/stereotype_threat.jpg
 ---
 <h3>Who Said Life Was Fair?</h3>
 <p>It used to be common knowledge that women were genetically predisposed to any occupation involving empathy, language or communication, like secretarial work, or typing. I do not kid when I tell you I read those words as if they were truth from an academic textbook when I was in college.</p>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Objects and Classes
-image: /images/classes.jpg
+image: ../images/classes.jpg
 ---
 <p><a href = "http://scottjason.github.io">One of my colleagues</a> recently shared with me one question from interview that Rolling Stone did with Steve Jobs back in 1994:</p>
 <blockquote cite = "http://www.quora.com/Object-Oriented-Programming/What-is-object-oriented-programming"><p><strong>Jeff Goodell: </strong>Would you explain, in simple terms, exactly what object-oriented software is? </p> 

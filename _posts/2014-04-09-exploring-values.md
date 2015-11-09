@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring Values
-image: /images/values.jpg
+image: ../images/values.jpg
 ---
 
 <h1>Exploring Your Values</h1>

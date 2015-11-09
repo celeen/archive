@@ -1,7 +1,7 @@
 ---
 layout: post
 title: User Experience and Design
-image: /images/city.jpg 
+image: ../images/city.jpg 
 ---
 
 #User Experience and Design

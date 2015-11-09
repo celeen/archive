@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dealing with Conflict
-image: /images/conflict.jpg
+image: ../images/conflict.jpg
 ---
 <h2>Dealing With Conflict</h2>
 <p>Sometimes life throws some punches at you. Sometimes <em>people</em> throw punches at you, most of the time without mal-intent. Sometimes you have to throw some punches out in order to make progress. </p>

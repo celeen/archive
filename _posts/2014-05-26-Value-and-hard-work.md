@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Value and Hard Work
-image: /images/classes.jpg
+image: ../images/classes.jpg
 imgpos: 50% 50%
 ---
 

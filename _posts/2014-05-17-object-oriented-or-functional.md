@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Object-Oriented or Functional
-image: /images/oovfp.jpg
+image: ../images/oovfp.jpg
 ---
 
 <h3>Object Oriented, or Functional Programming?</h3>

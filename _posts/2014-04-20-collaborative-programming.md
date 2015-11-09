@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collaborative Programming
-image: /images/collaboration.jpg
+image: ../images/collaboration.jpg
 ---
 
 <h2>Collaborative Programming</h2>

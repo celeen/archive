@@ -3,8 +3,8 @@
 title: Stronger Trees
 email: celeenrusk@gmail.com
 description: "A Personal Development Blog"
-baseurl: ""
-url: "http://celeen.github.io/archive"
+baseurl: "/archive"
+url: "http://celeen.github.io/archive/"
 
 # Build settings
 markdown: kramdown
